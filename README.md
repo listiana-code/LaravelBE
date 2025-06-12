@@ -1,8 +1,8 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-# Belajar Laravel bersama Cey
+# Belara1 by cey
 
-Belara1 adalah aplikasi web yang dibangun menggunakan Laravel — framework PHP yang powerful dan elegan. Proyek ini dirancang dengan struktur yang rapi dan modern, cocok untuk pengembangan aplikasi skala kecil hingga besar.
+Belara1 adalah aplikasi web yang dibangun menggunakan Laravel — framework PHP yang powerful dan elegan. Proyek ini dirancang dengan struktur yang rapi dan modern, cocok untuk pengembangan aplikasi skala kecil hingga besar. ini bagian backend front-end
 
 ## ✨ Fitur Utama
 
