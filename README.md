@@ -6,7 +6,7 @@ Belara1 adalah aplikasi web yang dibangun menggunakan Laravel — framework PHP 
 
 ## ✨ Fitur Utama
 
-- 🔐 Otentikasi dan manajemen pengguna (jika tersedia)
+- 🔐 Otentikasi dan manajemen pengguna 
 - ⚙️ Konfigurasi environment dengan `.env`
 - 📦 Manajemen dependensi dengan Composer
 - 🎨 Siap integrasi frontend dengan Laravel Mix (via `npm`)
